@@ -7,3 +7,4 @@ www.disocrd.com
 media.discordapp.net
 cdn.discordapp.com
 discord.com
+static.whatsapp.net
