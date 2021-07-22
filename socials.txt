@@ -1,0 +1,9 @@
+# list of some social media webs
+
+web.whatsapp.com
+www.facebook.com
+www.instagram.com
+www.disocrd.com
+media.discordapp.net
+cdn.discordapp.com
+discord.com
